@@ -20,7 +20,7 @@ const cvData = {
     projects: [
       {
         title: 'Reverse Engineering EMT',
-        description: 'Decompiled the official EMT Madrid Android app to reverse engineer its API and build a custom app that provides the hability to get bikes from the stations, ' +
+        description: 'Decompiled the official EMT Madrid Android app to reverse engineer its API and build a custom app that provides the ability to undock bikes from the stations, ' +
                     'get the closest stations to the user and get the status of the stations. While doing that I stumbled upon a very serious security issue that I reported to EMT.',
         tags: ['Java', 'Flask', 'Python', 'Ghidra']
       },
